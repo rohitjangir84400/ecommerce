@@ -1,0 +1,27 @@
+-----------backend---------------
+
+--> move to backend folder by using cammand
+    -- cd backend 
+
+--> install all dependencies by using cammand
+    -- npm i
+
+--> import product data in the database before starting the server by using cammand
+    -- npm run data:import
+
+--> start the server by using cammand
+    -- nodemon
+       or 
+    -- node index.js   
+
+
+---------frontend--------------
+
+-->  move to frontend folder by using cammand
+     -- cd frontend
+
+--> install all dependencies by using cammand     
+    -- npm i
+
+--> start the application by using cammand      
+    -- npm run start 
